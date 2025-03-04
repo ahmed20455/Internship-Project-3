@@ -13,7 +13,7 @@ The Clinic Management System is designed to streamline the management of patient
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Firebase (Firestore, Authentication)
+- **Backend**: Firebase (Firebase Authentication, FireStore database)
 
 - ## Setup Instructions
 1. Clone the repository.
